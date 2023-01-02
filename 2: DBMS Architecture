@@ -1,0 +1,10 @@
+Abstraction-
+Abstraction is the process of hiding the internal details of an application from the outer world. Abstraction is used to describe things in simple terms. 
+It’s used to create a boundary between the application and the client programs.
+
+
+Your car is a great example of abstraction. You can start a car by turning the key or pressing the start button. 
+You don’t need to know how the engine is getting started, what all components your car has. 
+The car internal implementation and complex logic is completely hidden from the user.
+
+dbms job is to provide abstract view of data 
